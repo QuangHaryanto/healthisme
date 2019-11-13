@@ -13,7 +13,7 @@ import HealthKit
 import CareKit
 import ResearchKit
 
-class ViewController: UIViewController {
+class ViewController: UITableViewController {
     
     //create a healthStore
     var healthStore: HKHealthStore = HKHealthStore()
