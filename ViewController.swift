@@ -11,7 +11,6 @@ import UIKit
 import HealthKit
 //menggunakan framework carekit dan research kit
 import CareKit
-import ResearchKit
 
 class ViewController: UITableViewController {
     
